@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\managestudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\managelecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\managelecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\managedepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\managedepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\managedepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\managedepartmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|d:\\nibm\\dse\\gui application development\\cw\\gui application development cw\\updated gui application\\student management system\\student management system\\forms\\managedepartmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3077DAAE-B3E7-4DBF-87B0-7211F574B1C2}|Student Management System\\Student Management System.csproj|solutionrelative:student management system\\forms\\managedepartmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\LoginForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "Student Management System\\Forms\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:12:54.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadingScreen.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\LoadingScreen.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\LoadingScreen.cs [Design]",
+              "RelativeToolTip": "Student Management System\\Forms\\LoadingScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:12:51.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\DashboardForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\DashboardForm.cs [Design]*",
+              "RelativeToolTip": "Student Management System\\Forms\\DashboardForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:12:17.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageStudentForm.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageStudentForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\ManageStudentForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageStudentForm.cs [Design]*",
+              "RelativeToolTip": "Student Management System\\Forms\\ManageStudentForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:07:49.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageLecturerForm.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageLecturerForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\ManageLecturerForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageLecturerForm.cs [Design]",
+              "RelativeToolTip": "Student Management System\\Forms\\ManageLecturerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:05:54.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageDepartmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.cs [Design]",
+              "RelativeToolTip": "Student Management System\\Forms\\ManageDepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:52:05.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageDepartmentForm.Designer.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\ManageDepartmentForm.Designer.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.Designer.cs",
+              "RelativeToolTip": "Student Management System\\Forms\\ManageDepartmentForm.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAWwN8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:57:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageDepartmentForm.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "RelativeDocumentMoniker": "Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\GUI Application Development\\CW\\GUI Application Development CW\\Updated GUI Application\\Student Management System\\Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "RelativeToolTip": "Student Management System\\Forms\\ManageDepartmentForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:52:08.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.LoadingScreen.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.LoginForm.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.DashboardForm.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.ManageStudentForm.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.ManageLecturerForm.resources
+D:\NIBM\DSE\GUI Application Development\CW\GUI Application Development CW\Updated GUI Application\Student Management System\Student Management System\obj\Debug\Student_Management_System.Forms.ManageDepartmentForm.resources
